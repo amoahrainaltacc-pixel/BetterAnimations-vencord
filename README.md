@@ -1,9 +1,10 @@
+
+# BetterAnimations
+
 <p align="center">
   <img src="cover.png" alt="BetterAnimations Banner" width="100%">
 </p>
 
-
-# BetterAnimations
 
 Make Discord feel smoother with BetterAnimations! Transform the look and feel of Discord with improved animations and transitions.
 
