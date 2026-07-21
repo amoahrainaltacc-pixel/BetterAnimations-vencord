@@ -351,7 +351,7 @@ again and restart Discord.
 # ❤️ Need Help?
 
 <p align="center">
-  <img src="end.png" alt="BetterAnimations Banner2" width="100%">
+  <img src="end" alt="BetterAnimations Banner2" width="100%">
 </p>
 
 If you're having trouble installing BetterAnimations, watch the installation video.
