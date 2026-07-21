@@ -15,7 +15,7 @@ After Git do Key WIN+R
 
 then type cmd
 
-download the userplugins folder here = https://limewire.com/d/whnPm#4FWFba9XzM
+download the userplugins folder here = https://drive.google.com/drive/folders/1YqK1TjD8bo89cTzpCyGJH5RF-pYZYObG?usp=drive_link
 
 
 
@@ -23,7 +23,7 @@ download the userplugins folder here = https://limewire.com/d/whnPm#4FWFba9XzM
 
 first run
 
-cd Download
+cd Downloads
 
 then
 
