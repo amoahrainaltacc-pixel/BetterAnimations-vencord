@@ -1,5 +1,5 @@
 
-# BetterAnimations
+# 𝗕𝗲𝘁𝘁𝗲𝗿𝗔𝗻𝗶𝗺𝗮𝘁𝗶𝗼𝗻𝘀
 
 <p align="center">
   <img src="cover.png" alt="BetterAnimations Banner" width="100%">
