@@ -156,6 +156,11 @@ Restart Discord.
 
 # Need Help?
 
+<p align="center">
+  <img src="end" alt="BetterAnimations Banner2" width="100%">
+</p>
+
+
 If you're having trouble installing BetterAnimations, watch the video guide:
 
 **Video Guide:** *(Add your video link here)*
