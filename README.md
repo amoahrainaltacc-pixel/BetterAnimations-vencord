@@ -53,6 +53,8 @@ then restart your discord
 
 # MUST HAVE DISCORD INSTALLED
 
+if you dont understand here is a Video Guide! -- 
+
 now open Settings
 then Click Plugins
 search for BetterAnimations and Enable it
