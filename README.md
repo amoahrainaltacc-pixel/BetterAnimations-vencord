@@ -1,0 +1,1 @@
+# BetterAnimations-vencord
